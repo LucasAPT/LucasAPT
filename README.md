@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## Welcome, bring a cup of coffee.
+## Welcome.
 
 </div>
 
