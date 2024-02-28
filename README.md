@@ -34,6 +34,8 @@
         <td><img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3"></td>
         <td><img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap"></td>
         <td><img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript"></td>
+        <td><img src="https://img.icons8.com/color/2x/c#.png" title="C#" width="100" alt="PHP"></td>
+        <td><img src="https://img.icons8.com/color/2x/angular.png" title="Angular" width="100" alt="PHP"></td>
         <td><img src="https://img.icons8.com/color/2x/php.png" title="PHP" width="100" alt="PHP"></td>
         <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" title="MySQL" width="100" alt="MySQL"></td>
